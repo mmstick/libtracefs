@@ -1,3 +1,9 @@
+libtracefs (1.8.0-1pop1) jammy; urgency=medium
+
+  * Backport from Noble
+
+ -- Michael Aaron Murphy <michael@mmurphy.dev>  Fri, 22 Nov 2024 16:37:35 +0100
+
 libtracefs (1.8.0-1ubuntu1) noble; urgency=medium
 
   * Remove "patches/" from .gitignore
